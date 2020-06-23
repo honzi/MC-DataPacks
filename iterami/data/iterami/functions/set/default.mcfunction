@@ -17,6 +17,7 @@ gamerule doWeatherCycle true
 gamerule drowningDamage true
 gamerule fallDamage true
 gamerule fireDamage true
+gamerule forgiveDeadPlayers true
 gamerule keepInventory false
 gamerule logAdminCommands true
 gamerule maxCommandChainLength 65536
@@ -29,3 +30,4 @@ gamerule sendCommandFeedback true
 gamerule showDeathMessages true
 gamerule spawnRadius 10
 gamerule spectatorsGenerateChunks true
+gamerule universalAnger false

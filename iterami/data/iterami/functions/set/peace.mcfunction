@@ -8,6 +8,8 @@ gamerule doInsomnia false
 gamerule drowningDamage false
 gamerule fallDamage false
 gamerule fireDamage false
+gamerule forgiveDeadPlayers true
 gamerule keepInventory true
 gamerule mobGriefing false
 gamerule naturalRegeneration true
+gamerule universalAnger false
