@@ -1,5 +1,5 @@
 iterami/MC-iterami-DataPacks
 ----------------------------
 
-* Contributing: https://iterami.com/Docs.htm/standards/contributing.htm
-* Docs: https://iterami.com/Docs.htm/repositories/mc-iterami-datapacks.htm
+* Contributing: https://iterami.github.io/Docs.htm/standards/contributing.htm
+* Docs: https://iterami.github.io/Docs.htm/repositories/mc-iterami-datapacks.htm
