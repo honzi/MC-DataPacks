@@ -18,12 +18,14 @@ gamerule drowningDamage true
 gamerule fallDamage true
 gamerule fireDamage true
 gamerule forgiveDeadPlayers true
+gamerule freezeDamage true
 gamerule keepInventory false
 gamerule logAdminCommands true
 gamerule maxCommandChainLength 65536
 gamerule maxEntityCramming 24
 gamerule mobGriefing true
 gamerule naturalRegeneration true
+gamerule playersSleepingPercentage 100
 gamerule randomTickSpeed 3
 gamerule reducedDebugInfo false
 gamerule sendCommandFeedback true
