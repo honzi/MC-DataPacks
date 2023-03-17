@@ -1,6 +1,7 @@
 gamerule announceAdvancements true
 gamerule blockExplosionDropDecay true
 gamerule commandBlockOutput true
+gamerule commandModificationBlockLimit 32768
 gamerule disableElytraMovementCheck false
 gamerule disableRaids false
 gamerule doDaylightCycle true
@@ -14,6 +15,7 @@ gamerule doMobSpawning true
 gamerule doPatrolSpawning true
 gamerule doTileDrops true
 gamerule doTraderSpawning true
+gamerule doVinesSpread true
 gamerule doWardenSpawning true
 gamerule doWeatherCycle true
 gamerule drowningDamage true
